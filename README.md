@@ -42,6 +42,4 @@ Cada arquivo representa um laboratório ou exercício prático desenvolvido no C
 
 **Milena Souza**
 
-🎓 Análise e Desenvolvimento de Sistemas  
-☕ Desenvolvedora Back-end Java em formação  
-🌐 Estudante de Redes de Computadores
+

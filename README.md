@@ -26,7 +26,7 @@ Os projetos foram criados com o objetivo de colocar em prática os conceitos apr
 
 ## 🎯 Objetivo
 
-Consolidar os conhecimentos em Redes de Computadores por meio de atividades práticas, desenvolvendo habilidades na configuração e simulação de ambientes de rede.
+Consolidar os conhecimentos em **Redes de Computadores** por meio de atividades práticas, desenvolvendo habilidades na configuração e simulação de ambientes de rede.
 
 Este repositório será atualizado continuamente com novos laboratórios e desafios realizados ao longo dos meus estudos.
 
@@ -34,12 +34,26 @@ Este repositório será atualizado continuamente com novos laboratórios e desaf
 
 ## 📂 Estrutura
 
-Cada arquivo representa um laboratório ou exercício prático desenvolvido no Cisco Packet Tracer, abordando diferentes conceitos e cenários de redes.
+Cada arquivo representa um laboratório ou exercício prático desenvolvido no **Cisco Packet Tracer**, abordando diferentes conceitos e cenários de redes.
+
+---
+
+## ▶️ Como abrir os arquivos
+
+Os arquivos deste repositório possuem a extensão **.pkt** e devem ser abertos utilizando o **Cisco Packet Tracer**.
+
+⚠️ **Observação:** Em alguns casos, ao clicar diretamente no arquivo baixado pelo GitHub, o laboratório pode abrir vazio ou não carregar corretamente. Para garantir que todos os dispositivos, configurações e topologias sejam carregados corretamente, siga os passos abaixo:
+
+1. Faça o download do arquivo **.pkt** desejado.
+2. Abra o aplicativo **Cisco Packet Tracer**.
+3. No menu superior, clique em **File**.
+4. Selecione a opção **Open** (ou **Open File**).
+5. Localize o arquivo baixado e abra-o pelo próprio aplicativo.
+
+Dessa forma, a simulação será carregada corretamente, mantendo todas as configurações realizadas no laboratório.
 
 ---
 
 ## 👩‍💻 Autora
 
 **Milena Souza**
-
-
